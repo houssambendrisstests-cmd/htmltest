@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8"
+    <meta charset="UTF-8">
     <script>
         window.location.replace("http://jpzmarketing.com/"+  window.location.href.split('#')[1]);
     </script>
